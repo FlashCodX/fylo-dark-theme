@@ -1,6 +1,6 @@
 # Fylo Dark Theme
 
-# ![preview](src/files/images/screenshot.png)
+# ![preview](src/files/images/screenshot.PNG)
 
 Just a quick challenge made for Frontend Mentor.
 
